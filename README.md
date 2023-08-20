@@ -2,6 +2,11 @@
 
 # Developed By Ceevyl
 
+# How To Install
+```
+pip install MTA-SDK-Python
+```
+
 # How to Create 
 
 ```py
