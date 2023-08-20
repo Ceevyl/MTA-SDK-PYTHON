@@ -1,6 +1,4 @@
-# Python SDK Para o MTA ( Multi Theft Auto ) 
-
-# Developed By Ceevyl
+A SDK Python Developed By Ceevyl.
 
 # How To Install
 ```
