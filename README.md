@@ -9,6 +9,8 @@ pip install MTA-SDK-Python
 
 ```py
 #             Using Url and Login & Pass
+from mtasdk import Mta
+
 Client = Mta("http://localhost:22005", ( "Batata", 1234 )  )
                    
 response = Client.call(  "resourceName", "functionName", ['Args1', 'Arg2...']  )
